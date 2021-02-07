@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004254115389",
+    "project_id": "diabetesproject-adabc",
+    "storage_bucket": "diabetesproject-adabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004254115389:android:2bd6fa67a53c5d8b1b5c54",
+        "android_client_info": {
+          "package_name": "com.example.diabetesandhypertensiontreatmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004254115389-ii5o1vke4s9gnomfu4j5car4gt5i5hjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIjnPOJ54KCFE1iH4URf9Iw-TGMd4rog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004254115389-ii5o1vke4s9gnomfu4j5car4gt5i5hjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

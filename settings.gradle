@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Diabetes and hypertension treatment system"
